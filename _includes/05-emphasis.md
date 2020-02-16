@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__AWS Solution Architech Associate certified (SAA)__
+
+__Google Analytics certified__
+
+__Project Management Professional Certified (PMP)__
+
+_Oracle Certified Professional (OCP)_
